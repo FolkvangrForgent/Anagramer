@@ -1,0 +1,8 @@
+[package]
+name = "anagramer"
+version = "0.1.0"
+authors = ["Forgent"]
+edition = "2018"
+
+[dependencies]
+exitcode = "1.1.2"
